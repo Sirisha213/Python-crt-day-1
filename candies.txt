@@ -1,0 +1,9 @@
+n=10
+k=5
+m=int(input("enter a number:"))
+if m==0 or m>=5:
+    print("INVALID INPUT")
+else:
+    print("NUMBER OF CANDIES SOLD:",m)
+    print("NUMBER OF CANDIES AVAILABLE:",n-m)
+

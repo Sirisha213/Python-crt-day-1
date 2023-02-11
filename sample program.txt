@@ -1,0 +1,10 @@
+num=7
+amt=122.122
+code='a'
+long=1000000
+msg='hi'
+print(num)
+print(amt)
+print(code)
+print(msg)
+print(long)
